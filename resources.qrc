@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/plugins/traccar">
+    <file>1394568050_Zoom.png</file>
+    <file>1394568050_Zoom_oria.png</file>
+    <file>1425482625_OpenOffice_Calc.png</file>
+    <file>1425482853_gps_searching.png</file>
+    <file>Keyhole_Markup_Language.png</file>
+    <file>Magnifier-icon.png</file>
+    <file>map_add.png</file>
+    <file>icon.png</file>
+	<file>database-arrow-down-icon.png</file>
+  </qresource>
+</RCC>
